@@ -1,9 +1,4 @@
-<img src="https://github.com/decompanyio/decompanyio-frontend/blob/master/public/logo.png" alt="react boilerplate banner" align="center" />
-
-# Polaris Share Front-End
-> Development URL : https://share.decompany.io
-
-> Production URL : https://www.polarishare.com
+# Document Share Platform(DAPP) Front-End
 
 ## Local
 - npm start (port 3000)
@@ -19,13 +14,13 @@
 - utils : third-party APIs
 
 ## Release Note
-> https://github.com/decompanyio/decompanyio-frontend/blob/master/doc/RELEASE_NOTE.md
+> https://github.com/bisu8018/document-share-platform-nextjs/blob/master/doc/RELEASE_NOTE.md
 
 ## Guide
 English
-> https://github.com/decompanyio/decompanyio-frontend/blob/master/doc/GUIDE.md
+> https://github.com/bisu8018/document-share-platform-nextjs/blob/master/doc/GUIDE.md
 
 한국어
-> https://github.com/decompanyio/decompanyio-frontend/blob/master/doc/GUIDE_KR.md
+> https://github.com/bisu8018/document-share-platform-nextjs/blob/master/doc/GUIDE_KR.md
 
 
